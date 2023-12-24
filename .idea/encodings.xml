@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/results/default_result.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/results/mistakes_result.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/results/multi_language_result.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/results/one_word_one_sentence_result.json" charset="windows-1251" />
+  </component>
+</project>
